@@ -1,6 +1,6 @@
 # Chest X-ray Classification with CNN and Feature Drooping
 
-This project uses a Convolutional Neural Network (CNN) to classify chest X-ray images into three categories: normal, bacterial pneumonia, and viral pneumonia. By employing a feature drooping technique, we've improved our model accuracy from 90% to 92%. 
+This project uses a Convolutional Neural Network (CNN) to classify chest X-ray images into three categories: normal, bacterial pneumonia, and viral pneumonia. By employing a feature drooping technique, we've improved our model accuracy for 2%. 
 
 ## Dataset
 
@@ -15,12 +15,8 @@ To achieve improved performance, we experimented with feature drooping. This tec
 
 ## Getting Started
 
-### Training
+### Run
 
 1. Clone this repository.
 2. Download the dataset from Kaggle.
 3. Run the jupyter notebook.
-
-### Evaluation
-
-In some case, the feature dropping improve the perfromace with 2%.
